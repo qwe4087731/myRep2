@@ -6,5 +6,6 @@ public class Hello {
 		System.out.println(45);
 		System.out.println(345);   
 		System.out.println("234");
+		System.out.println(1232);
 	}
 }
